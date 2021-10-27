@@ -43,18 +43,21 @@ See the screenshots below to get an idea how the web-app looks like.
 │ ├── DisasterResponse.db \
 │ ├── disaster_categories.csv \
 │ ├── disaster_messages.csv\
-│ ├── helper_etl_pipeline.ipynb >>> Helper Jupyter Notebook explaining steps for process_data.py \
+│ ├── etl_pipeline_preparation.ipynb >>> Helper Jupyter Notebook explaining steps for process_data.py \
 │ └── process_data.py >>> ETL pipeline - a Python script that loads the messages and categories datasets\
                           merges the two datasets,cleans the data,stores it in a SQLite database\
 ├── models\
 │ ├── functions.py >>> File containing helper functions \
 │ ├── classifier.pkl >>> Pretrained model\
-│ ├── helper_ml_pipeline.ipynb >>> Helper Jupyter Notebook explaining steps for train_classifier.py \
+│ ├── ml_pipeline_preparation.ipynb >>> Helper Jupyter Notebook explaining steps for train_classifier.py \
 │ └── train_classifier.py >>> ML pipeline - a Python script that builds a text processing and machine learning pipeline\
                               which trains and tunes a model using GridSearchCV, and then exports the final model as classifier.pkl\
 ├── screenshots\
-│ ├── request_1.PNG \
-│ ├── start_screen.PNG \
+│ ├── screen2.png \
+│ ├── screen3.png \
+│ ├── Screenshot_1.png \
+│ ├── Screenshot_2.png \
+
 
 ├── web_app\
 │ ├── static\
