@@ -55,8 +55,8 @@ See the screenshots below to get an idea how the web-app looks like.
 ├── screenshots\
 │ ├── screen2.png \
 │ ├── screen3.png \
-│ ├── Screenshot_1.png \
 │ ├── Screenshot_2.png \
+│ ├── Screenshot_3.png \
 
 
 ├── web_app\
