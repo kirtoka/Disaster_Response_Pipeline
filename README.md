@@ -131,6 +131,5 @@ for the category `water`. However, the training for all categories takes a long 
 
 
 ## 🙏 Licensing, Acknowledgements <a name=Chap6></a>
-Authors: Natalia Chirtoca.
 This project is published in 2021 under [MIT](https://es.wikipedia.org/wiki/Licencia_MIT) license.
-csv-files are provided by [Figure Eight](https://www.figure-eight.com/) ([appen](https://appen.com/) 
+csv-files are provided by [Figure Eight](https://www.figure-eight.com/)/[appen](https://appen.com/) 

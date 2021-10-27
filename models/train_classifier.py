@@ -134,7 +134,7 @@ def save_model(model, model_filepath):
         model:          model to be saved
         model_filepath: path the model is saved to
     """
-    joblib.dump(model, model_filepath)
+    joblib.dump(model, model_filepath, compress=3)
     return
 
 
