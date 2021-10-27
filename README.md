@@ -19,8 +19,7 @@ This is a project for the UDACITY Nanodegree "Data Scientist"
 
 This project is part of the Udacity Data Scientist Nanodegree Program.
 
-After a natural disaster, thousands of people will send out messages to ask for help, inform and warn other people through various channels such as social media. For example, I need food; I am trapped under the rubble. In such a case, thousands of such messages pop up during a very short time. It is hard to filter out meaningful information without wasting too much time. The government does not have enough time to read all the messages and send them to various departments. The goal of this project is to provide a multi-class classifier to categorize such disaster messages. 
-
+After a natural disaster, thousands of people will send out messages to ask for help, inform and warn other people such as 'I need food'; 'Please, we need tents and water'; 'I would like to know if the earthquake is over';'There's nothing to eat and water, we starving and thirsty'. Thousands of such messages pop up during a very short time. It is hard to filter out meaningful information without wasting too much time. The government does not have enough time to read all the messages and send them to various departments. The goal of this project is to provide a multi-class classifier to categorize such disaster messages.
 
 Starting with raw csv-files that contain messages about disasters from different sources (e.g., social media), we define
 pipelines that clean/transform the information and build a model to classify the disaster messages in certain categories. More detailed: 
