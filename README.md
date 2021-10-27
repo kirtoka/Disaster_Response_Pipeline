@@ -29,13 +29,13 @@ pipelines that clean/transform the information and build a model to classify the
 
 See the screenshots below to get an idea how the web-app looks like.  
 
-![Start screen](./screenshots/Screenshot_2.png?raw=true "Enter message")
+![Enter message](./screenshots/Screenshot_2.png?raw=true "Enter message")
 
-![Request](./screenshots/Screenshot_3.png?raw=true "Result")
+![Result](./screenshots/Screenshot_3.png?raw=true "Result")
 
-![Request](./screenshots/screen2.png?raw=true "Chart1")
+![Chart1](./screenshots/screen2.png?raw=true "Chart1")
 
-![Request](./screenshots/screen3.png?raw=true "Chart2")
+![Chart2](./screenshots/screen3.png?raw=true "Chart2")
 
 
 ## 🍀 File descriptions <a name=Chap2></a>
