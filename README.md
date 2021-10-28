@@ -123,7 +123,7 @@ pip install -r requirements.txt
 ## ✔️ Project conclusion <a name=Chap5></a>
 
 In this project, a baseline multi-class classifier and several approaches to improve this baseline classifier has been
-trained and tested, see [helper_ml_pipeline jupyter notebook](./models/ml_pipeline_preparation.ipynb). 
+trained and tested, see [ml_pipeline_preparation jupyter notebook](./models/ml_pipeline_preparation.ipynb). 
 Unfortunately, most experiments did not lead to a significant improvement of the baseline classifier. Therefore,
 further investigations should be done to make the model better.  
 One idea might be to use Support Vector Classification that showed good results for the recall at least
